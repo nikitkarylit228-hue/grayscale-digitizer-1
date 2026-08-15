@@ -1,0 +1,11 @@
+
+---
+
+## 📥 КАК ЛЮДИ БУДУТ СКАЧИВАТЬ
+
+### Способ 1: Клонирование через Git
+```bash
+git clone https://github.com/ваш_логин/grayscale-digitizer.git
+cd grayscale-digitizer
+pip install -r requirements.txt
+python app.py
